@@ -1,16 +1,34 @@
-## Hi there 👋
+## Welcome to my profile 👋
 
-<!--
-**omniaatefmohamed/omniaatefmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eng.Omnia Atef
 
-Here are some ideas to get you started:
+**Front-End Developer | 9 Years of Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated from the Faculty of Engineering, Department of Communications and Electronics.
+
+### I build websites that are:
+* compatible with all browsers.
+* responsive with all screen sizes
+* pass w3c validation to ensure the web standards are acheieved in the website
+* compatible with SEO principles from front end perspective.
+* readable and maintaible to be esay to expand in the future.
+
+### I have a YouTube channel dedicated to programming 
+https://www.youtube.com/c/squarebrackets
+
+### My Skills
+* HTML
+* CSS
+* JS
+* jQuery
+* Bootstrap
+* react
+* react bootstrap
+* Redux
+* Redux-toolkit
+
+### you can contact with me via
+* **LinkedIn**  
+https://www.linkedin.com/in/omnia-atef-mohamed/  
+* **Email**  
+  omnia.atef.mohamed@gmail.com
