@@ -26,6 +26,8 @@ https://www.youtube.com/c/squarebrackets
 * react bootstrap
 * Redux
 * Redux-toolkit
+* tailwind
+* angular
 
 ### you can contact with me via
 * **LinkedIn**  
